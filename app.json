@@ -5,6 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "platforms": ["android"]
+    "platforms": ["android"],
+    "android": {
+      "package": "com.mgao29160.workbench"
+    }
   }
 }
